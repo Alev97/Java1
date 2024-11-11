@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+/home/user/Scrivania/Fullstack/Java1/.metadata/.plugins/org.eclipse.jdt.core
+3815430311.index
+3362553505.index
+3852764988.index
+2312781809.index
+2781739566.index
+4193324981.index
+1789387819.index
+828577486.index
+4205869860.index
+1865797976.index

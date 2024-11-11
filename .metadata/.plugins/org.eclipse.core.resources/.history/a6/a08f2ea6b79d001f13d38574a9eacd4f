@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Persona p1 = (Persona)ParseClass.Parse("Persona");
+		// oppure Persona p1 = (Persona)ParseClass.Parse(Persona.class);
+		System.out.println(p1);
+		
+		Studente s1 = (Studente)ParseClass.Parse(Studente.class);
+		System.out.println(1);
+
+	}
+
+}

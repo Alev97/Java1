@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner read = new Scanner(System.in);
+		
+		String s1 = read.next();
+		int i1 = read.nextInt();
+		String s2 = read.next();
+		
+		System.out.printf("<%s>, <%d>, <%s>\n", s1, i1, s2);
+
+	}
+
+}
